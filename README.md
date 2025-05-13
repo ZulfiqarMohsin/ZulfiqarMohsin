@@ -1,16 +1,43 @@
-## Hi there 👋
+# Hi there, I'm Zulfiqar Mohsin 👋
 
-<!--
-**ZulfiqarMohsin/ZulfiqarMohsin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Aspiring Front-End Web Developer
 
-Here are some ideas to get you started:
+I'm passionate about creating beautiful, responsive websites. Currently diving deep into:
+- 🌐 HTML5, CSS3 & JavaScript
+- 🎯 Learning Python
+- 🔧 Git & GitHub for version control
+- 📈 Exploring freelancing on Fiverr & Upwork
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🧠 What I'm Working On
+- 🛠 Building my portfolio website
+- 🌙 Learning how to create animated & modern landing pages
+- 📚 Improving core skills for real-world projects
+
+---
+
+### 🛠️ Skills
+- ✅ HTML
+- ✅ CSS
+- ✅ JavaScript
+- ⏳ Python (learning)
+- ⚙️ Git & GitHub (beginner)
+
+---
+
+### 📫 Connect with Me
+- 📧 Email: *zulfiqarmohsin180@email.com*
+- 💼 Fiverr: (https://www.fiverr.com/zulfiqar_mohsin/buying?source=avatar_menu_profile)
+- 🌐 Portfolio: [Coming soon]
+
+---
+
+### 📌 Latest Projects
+- 🔹 Responsive Landing Page
+- 🔹 Personal Portfolio Website (in progress)
+- 🔹 Basic Website UI Design
+
+---
+
+**✨ I believe in learning by building. Let’s grow together!**
